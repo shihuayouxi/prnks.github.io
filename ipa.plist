@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- iPA 文件 URL -->
-					<string>https://download.fastgit.org/prnks/prnks.github.io/releases/download/21.1.0/TikTok21.1.0.ipa</string>
+					<string>https://download.fastgit.org/prnks/prnks.github.io/releases/download/21.1.0/TikTok.21.1.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
